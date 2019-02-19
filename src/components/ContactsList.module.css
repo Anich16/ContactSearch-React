@@ -1,0 +1,18 @@
+.contactsBlock {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.form {
+    padding: 5px 10px;
+    font-size: 18px;
+    width: 80%;
+}
+
+.contactsList {
+    list-style: none;
+    padding: 0;
+
+}
